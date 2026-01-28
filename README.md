@@ -39,7 +39,6 @@ Key features include:
 ### CLV Estimation
 Customer Lifetime Value is estimated using an interpretable, business-aligned approach:
 
-```text
 Expected Customer Lifetime (months) ≈ 1 / churn_rate
 CLV ≈ Monthly Charge × Expected Lifetime
 
