@@ -43,7 +43,7 @@ Expected Customer Lifetime (months) ≈ 1 / churn_rate
 CLV ≈ Monthly Charge × Expected Lifetime
 
 Key Insights
-1. CLV Distribution
+### 1. CLV Distribution
 
 CLV is right-skewed
 
@@ -51,7 +51,7 @@ A small group of customers contributes a disproportionately large share of total
 
 <img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/7ef78ccd-ebf0-4232-afb5-c0dace22d53f" />
 
-2. Revenue Concentration (Pareto Effect)
+### 2. Revenue Concentration (Pareto Effect)
 
 Approximately 20% of customers account for the majority of estimated revenue
 
@@ -59,7 +59,7 @@ Confirms the importance of value-based customer prioritization
 
 <img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/35b4a852-6de2-4f6f-a234-312ad3d88d61" />
 
-3. CLV-Based Customer Segmentation
+### 3. CLV-Based Customer Segmentation
 
 Customers are segmented into:
 
@@ -75,7 +75,7 @@ High-CLV customers represent a smaller portion of the customer base but generate
 
 <img width="689" height="390" alt="image" src="https://github.com/user-attachments/assets/441f89d9-dae2-4fdd-8bb5-c80e482ed421" />
 
-4. Value vs Risk Analysis
+### 4. Value vs Risk Analysis
 
 Customer value is combined with churn behavior to form value-risk segments:
 
@@ -87,7 +87,7 @@ Low CLV / Low Risk	Stable but low value
 
 <img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/accf612c-3d34-4e6d-aea1-fa6eca2bc6b8" />
 
-5. High-Value Customers at Risk
+### 5. High-Value Customers at Risk
 
 A subset of customers falls into the High CLV / High Risk category:
 
@@ -185,26 +185,27 @@ Combining CLV with churn insights enables smarter, ROI-focused retention strateg
 
 This analysis bridges the gap between churn prediction and business decision-making.
 
-Actionable Business Recommendations
-1. Prioritize High-Value, High-Risk Customers
+## Actionable Business Recommendations
+
+#### 1. Prioritize High-Value, High-Risk Customers
 
 Deploy targeted retention campaigns (discounts, service upgrades)
 
 Assign proactive customer support outreach
 
-2. Protect High-Value, Low-Risk Customers
+#### 2. Protect High-Value, Low-Risk Customers
 
 Maintain service quality and loyalty incentives
 
 Avoid unnecessary pricing changes
 
-3. Optimize Retention Spend
+#### 3. Optimize Retention Spend
 
 Reduce aggressive retention efforts for low-CLV customers
 
 Reallocate resources toward segments with higher revenue impact
 
-4. Integrate Predictive Risk Scoring
+#### 4. Integrate Predictive Risk Scoring
 
 Replace observed churn labels with churn probability scores
 
