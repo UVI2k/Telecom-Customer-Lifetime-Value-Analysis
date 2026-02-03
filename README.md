@@ -9,6 +9,13 @@ The objective is to identify **which customers contribute the most revenue**, **
 
 The project extends traditional churn analysis by combining **customer value** and **churn risk**, delivering insights that directly support **ROI-driven retention strategies**.
 
+Dashboard Snippets:
+<img width="1325" height="735" alt="executive_summary" src="https://github.com/user-attachments/assets/c8af14a8-2f19-4f42-9ffb-106ffa2dd8bd" />
+
+<img width="1313" height="740" alt="clv_risk_analysis" src="https://github.com/user-attachments/assets/98c79f3d-4d26-423a-b973-b2ea8c37cf95" />
+
+<img width="1326" height="742" alt="churn_drivers_ _retention" src="https://github.com/user-attachments/assets/df697b49-aa2b-4de7-bf7b-3b5bfb1fd088" />
+
 ---
 
 ## Business Problem
